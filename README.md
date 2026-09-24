@@ -1,2 +1,2 @@
-# Trabalho-phyton-uninassau
+# Trabalho-python-uninassau
 Trabalho uninassau
